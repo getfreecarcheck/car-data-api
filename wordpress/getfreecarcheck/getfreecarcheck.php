@@ -24,7 +24,7 @@ const GETFREECARCHECK_BASE = 'https://getfreecarcheck.co.uk';
 
 /** Fixed sizes: each box fits any width from 280 to 420 px at this height. */
 function getfreecarcheck_size( $kind ) {
-	return 'reliability' === $kind ? array( 420, 500 ) : array( 420, 250 );
+	return 'reliability' === $kind ? array( 420, 510 ) : array( 420, 256 );
 }
 
 function getfreecarcheck_slug( $s ) {
