@@ -3,7 +3,7 @@
   "name": "uk.co.getfreecarcheck/car-data",
   "title": "GetFreeCarCheck: UK car reliability and MOT data",
   "description": "UK car reliability, MOT faults, mileage, recalls, ULEZ and car tax from 100m+ DVSA MOT tests.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://getfreecarcheck.co.uk/developers",
   "remotes": [
     {
