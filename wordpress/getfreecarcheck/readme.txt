@@ -2,7 +2,7 @@
 Contributors: getfreecarcheck
 Tags: car check, mot history, number plate, car reliability, ulez
 Requires at least: 6.0
-Tested up to: 6.8
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -12,7 +12,7 @@ A free UK car check box for your site: MOT history, mileage, ULEZ, tax and recal
 
 == Description ==
 
-Give your visitors a free UK car check. Two boxes, both free, with no key, no sign-up and no limits:
+The boxes are iframes served by GetFreeCarCheck (getfreecarcheck.co.uk); see External services below. Give your visitors a free UK car check. Two boxes, both free, with no key, no sign-up and no limits:
 
 * **Free car check:** a number plate box. A visitor's check opens in a new tab with the car's full MOT history (every fail and advisory), its mileage record, ULEZ, car tax and recalls.
 * **Car reliability card:** one model's first-time MOT fail rate against the average car of the same age, its most common MOT fails and a plate box, from over 100 million DVSA MOT tests.
