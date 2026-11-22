@@ -49,11 +49,11 @@ function getfreecarcheck_box( $kind, $make = '', $model = '' ) {
 	$src   = add_query_arg( 'site', rawurlencode( getfreecarcheck_site_tag() ), GETFREECARCHECK_BASE . $path );
 	$title = 'check' === $kind ? __( 'Free car check', 'getfreecarcheck' ) : __( 'Car reliability', 'getfreecarcheck' );
 	$html  = sprintf(
-		'<iframe src="%s" title="%s" loading="lazy" style="width:100%%;max-width:%dpx;height:%dpx;border:0"></iframe>',
+		'<iframe src="%s" title="%s" loading="lazy" width="100%%" height="%d" frameborder="0" style="max-width:%dpx;border:0"></iframe>',
 		esc_url( $src ),
 		esc_attr( $title ),
-		(int) $w,
-		(int) $h
+		(int) $h,
+		(int) $w
 	);
 	if ( get_option( 'getfreecarcheck_credit', '0' ) === '1' ) {
 		$href  = 'check' === $kind ? GETFREECARCHECK_BASE . '/' : GETFREECARCHECK_BASE . '/cars/' . $make . '/' . $model;
