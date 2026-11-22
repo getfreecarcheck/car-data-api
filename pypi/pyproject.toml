@@ -1,0 +1,20 @@
+[project]
+name = "getfreecarcheck"
+version = "1.0.0"
+description = "UK car data API client: car reliability, MOT history and common faults, mileage, recalls, CO2, ULEZ and car tax from over 100 million DVSA MOT tests."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "GetFreeCarCheck", email = "hello@getfreecarcheck.co.uk" }]
+keywords = ["car check", "uk car check", "mot history", "mot history api", "dvsa", "car reliability", "vehicle data api", "number plate", "registration lookup", "ulez", "car tax", "ved", "recalls"]
+classifiers = ["Programming Language :: Python :: 3", "Operating System :: OS Independent", "Intended Audience :: Developers", "Topic :: Software Development :: Libraries"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://getfreecarcheck.co.uk/developers"
+Documentation = "https://getfreecarcheck.co.uk/developers/docs"
+Repository = "https://github.com/getfreecarcheck/car-data-api"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

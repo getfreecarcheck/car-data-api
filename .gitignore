@@ -1,0 +1,6 @@
+.ruff_cache/
+__pycache__/
+dist/
+node_modules/
+*.egg-info/
+.venv/

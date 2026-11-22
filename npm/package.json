@@ -1,0 +1,51 @@
+{
+  "name": "getfreecarcheck",
+  "version": "1.0.0",
+  "description": "UK car data API client: car reliability, MOT history and common faults, mileage, recalls, CO2, ULEZ and car tax from over 100 million DVSA MOT tests.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "car check",
+    "uk car check",
+    "mot history",
+    "mot history api",
+    "dvsa",
+    "car reliability",
+    "vehicle data api",
+    "number plate",
+    "registration lookup",
+    "ulez",
+    "car tax",
+    "ved",
+    "recalls",
+    "mileage check",
+    "uk"
+  ],
+  "homepage": "https://getfreecarcheck.co.uk/developers",
+  "license": "MIT",
+  "author": "GetFreeCarCheck <hello@getfreecarcheck.co.uk>",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getfreecarcheck/car-data-api.git",
+    "directory": "npm"
+  },
+  "bugs": {
+    "url": "https://github.com/getfreecarcheck/car-data-api/issues",
+    "email": "hello@getfreecarcheck.co.uk"
+  }
+}
