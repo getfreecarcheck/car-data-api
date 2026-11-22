@@ -31,6 +31,12 @@ npm install getfreecarcheck      # JavaScript and TypeScript: ./npm
 pip install getfreecarcheck      # Python: ./pypi
 ```
 
+## Add a free car check to your website
+
+Paste a box into any page: [build yours](https://getfreecarcheck.co.uk/developers/widget). On WordPress, install the
+plugin in [`wordpress/getfreecarcheck`](wordpress/getfreecarcheck) and use `[getfreecarcheck]` or
+`[getfreecarcheck_reliability make="ford" model="fiesta"]`.
+
 ## Plans
 
 Model data is free and unlimited. Number plate lookups: Free (500 a month, no card), then paid plans for more
