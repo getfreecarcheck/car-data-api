@@ -1,6 +1,6 @@
 {
   "name": "getfreecarcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UK car data API client: car reliability, MOT history and common faults, mileage, recalls, CO2, ULEZ and car tax from over 100 million DVSA MOT tests.",
   "type": "module",
   "main": "index.js",

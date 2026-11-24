@@ -10,7 +10,7 @@ import urllib.parse
 import urllib.request
 from typing import Any
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 BASE = "https://api.getfreecarcheck.co.uk/v1"
 __all__ = ["BASE", "GetFreeCarCheck", "ApiError"]
 

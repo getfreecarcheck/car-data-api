@@ -37,6 +37,9 @@ Paste a box into any page: [build yours](https://getfreecarcheck.co.uk/developer
 plugin in [`wordpress/getfreecarcheck`](wordpress/getfreecarcheck) and use `[getfreecarcheck]` or
 `[getfreecarcheck_reliability make="ford" model="fiesta"]`.
 
+## Browser extension
+GetFreeCarCheck for Autotrader puts the same data on every Autotrader advert: reliability for the model and year, the faults worth checking, mileage for its age and the car's own MOT history. Free on [Chrome](https://chromewebstore.google.com/detail/iahmdhbnekgofbjjfblhminibekopepe). More: https://getfreecarcheck.co.uk/autotrader-extension
+
 ## Plans
 
 Model data is free and unlimited. Number plate lookups: Free (500 a month, no card), then paid plans for more

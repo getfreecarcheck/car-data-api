@@ -19,6 +19,8 @@ The boxes are iframes served by GetFreeCarCheck (getfreecarcheck.co.uk); see Ext
 
 Made for car dealers, garages, car blogs, reviews, forums and clubs.
 
+GetFreeCarCheck for Autotrader puts the same data on every Autotrader advert: reliability for the model and year, the faults worth checking, mileage for its age and the car's own MOT history. Free on Chrome: https://chromewebstore.google.com/detail/iahmdhbnekgofbjjfblhminibekopepe . More: https://getfreecarcheck.co.uk/autotrader-extension
+
 Add a box with a shortcode:
 
 * `[getfreecarcheck]`
